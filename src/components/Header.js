@@ -3,8 +3,8 @@ import { Switch } from '@headlessui/react'
 
 
 const data = {
-  title: "AI Community Members",
-  subheading: "Find any of our members below",
+  title: "Ambassadors of the National Program For Coders",
+  subheading: "Directory for Ambassadors of the National Program For Coders",
 };
 
 export const Header = () => {

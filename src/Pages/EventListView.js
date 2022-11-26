@@ -7,11 +7,11 @@ function EventListView() {
   return (
     <>
       <Helmet>
-        <title>AI Community directory</title>
+        <title>Ambassadors of the National Program For Coders</title>
         <meta
           name="description"
-          content="Find an active directory and participate as a judge, attendee or even a host. All our events are different."
-          title="directory List"
+          content="Directory for Ambassadors of the National Program For Coders"
+          title="Directory List"
         />
       </Helmet>
       <div className="max-w-5xl mx-auto">

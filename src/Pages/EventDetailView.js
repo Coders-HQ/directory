@@ -29,7 +29,7 @@ export default function EventDetailView() {
       <div className="bg-white max-w-2xl lg:max-w-7xl mx-auto px-3  ">
         <div className="pt-6">
           <Breadcrumb aria-label="Default breadcrumb">
-            <Breadcrumb.Item href="/ai_community_directory" icon={HiListBullet}>
+            <Breadcrumb.Item href="/directory" icon={HiListBullet}>
               Directory
             </Breadcrumb.Item>
             <Breadcrumb.Item>{user.username}</Breadcrumb.Item>
@@ -71,10 +71,9 @@ export default function EventDetailView() {
                 <div className="mt-10 pb-5">
                   <Highlights highlights={user.highlights} />
                 </div>
-<div className="mt-10">
-
-                <Metadata metadata={user.metadata}/>
-</div>
+                <div className="mt-10">
+                  <Metadata metadata={user.metadata} />
+                </div>
               </div>
 
               {/* Timeline */}
