@@ -3,7 +3,7 @@ import { SlSocialGithub, SlSocialLinkedin, SlSocialTwitter } from "react-icons/s
 
 
 const data = {
-    directorys: [
+    directories: [
         {
             username: "ralsuwaidi",
             name: "Rashed AlSuwaidi",
