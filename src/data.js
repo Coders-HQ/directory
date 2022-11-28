@@ -226,6 +226,64 @@ const data = {
                     value: "Bachelor of science in Information Technology,Software Developer",
                 },
             ]
+        },
+        {
+            username: "zayedaslam",
+            name: "Zayed Al Raeesi",
+            headline: "Software Engineer at LuneData.io",
+            position: "Fintech Startup, Lune Technologies",
+            about: "Highly competent and self-driven software engineer. I strive to utilize my technical skills to reach the targets set and advance my performance in the organization. Currently, My aim is to enhance my experience and knowledge through working on new leading projects that benefits the community.",
+            banner: "https://media-exp1.licdn.com/dms/image/D4D16AQF2egVuKv86mg/profile-displaybackgroundimage-shrink_350_1400/0/1669574066638?e=1675296000&v=beta&t=CuNzk3lWniqMTEzVVunCbTY8AheRVdcsRNMDrgbSM_o",
+            image: "https://media-exp1.licdn.com/dms/image/C4D03AQG4hdesacMk9A/profile-displayphoto-shrink_400_400/0/1644152482857?e=1675296000&v=beta&t=064owp6P6Uq1TvynN-lJMgqvHarJUFglIVT7LmpUIds",
+            highlights: [
+                "Bachelor's Degree in Computer Engineering From Abu Dhabi University",
+                '1nd Place 🥇 in the Future Lab Hackathon hosted by Emirates NBD at Gitex Dubai',
+                '2nd Place in the NASA SPACE APPS CHALLENGE 2020',
+                'Golden Codeing Ambassador at CodersHQ'
+            ],
+            socials: [
+                {
+                    name: "LinkedIn",
+                    url: "https://www.linkedin.com/in/zayed-a-405010202/",
+                    icon: SlSocialLinkedin,
+                },
+                {
+                    name: "Instagram",
+                    url: "https://www.instagram.com/zayed.dev/",
+                    icon: SlSocialTwitter,
+                },
+                {
+                    name: "Github",
+                    url: "https://github.com/zay0od",
+                    icon: SlSocialGithub,
+                },
+            ],
+            timeline: [
+                {
+                    date: "November 2022",
+                    title: "Contributed in building CodersHQ Backend",
+                    description: "My colleagues and i started working on Coders HQ Backend infrastructure using FastAPI & Strapi.",
+                },
+                {
+                    date: "September 2022",
+                    title: "Codeing Ambassador",
+                    description: "Selected by CodersHQ to become a Golden Ambassador.",
+                },
+            ],
+            metadata: [
+                {
+                    key: "Occupation",
+                    value: "Software Engineer",
+                },
+                {
+                    key: "Years of Experience",
+                    value: "2",
+                },
+                {
+                    key: "Academic Degree",
+                    value: "Bachelor of Science in Computer Engineering",
+                },
+            ]
         }
     ],
 }
