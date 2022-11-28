@@ -15,7 +15,7 @@ import DefaultTimeline from "../components/DefaultTimeline";
 
 export default function EventDetailView() {
   let { userId } = useParams();
-  const user = data.directorys.find((obj) => obj.username === userId);
+  const user = data.directories.find((obj) => obj.username === userId);
 
   return (
     <>
