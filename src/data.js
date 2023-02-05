@@ -148,6 +148,16 @@ const data = {
             ],
             timeline: [
                 {
+                    date: "February 2023",
+                    title: "Leading the Assessment Project at CodersHQ",
+                    description: "Responsible for the development & maintenance of http://assessment.codershq.ae/ and its code at https://github.com/Coders-HQ/CodersHQ",
+                },
+                {
+                    date: "December 2023",
+                    title: "Awarded Golden Visa for UAE",
+                    description: "Awarded the UAE 10-Year Golden Visa for Outstanding Specialised Talents for Software Engineering.",
+                },
+                {
                     date: "November 2022",
                     title: "Judge at iCodeJr Code Battle",
                     description: "Judged the iCodeJr Code Battle codebattle.tech with other CodersHQ Ambassadors",
